@@ -1,2 +1,2 @@
 # company-profil
-Website berisi informasi tentang diri saya sendiri
+Website berisi Portofolio dan Tawaran Jasa Fotografi
